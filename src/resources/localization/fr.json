@@ -1,0 +1,35 @@
+{
+  "app": {
+    "name": "Modèle React Native",
+    "description": "Un modèle React Native pour créer des applications mobiles",
+    "version": "1.0.0",
+    "author": "Modèle React Native",
+    "license": "MIT"
+  },
+  "common": {
+    "ok": "OK",
+    "cancel": "Annuler",
+    "yes": "Oui",
+    "no": "Non",
+    "save": "Sauvegarder",
+    "delete": "Supprimer",
+    "edit": "Modifier",
+    "loading": "Chargement...",
+    "error": "Erreur",
+    "success": "Succès"
+  },
+  "auth": {
+    "login": "Connexion",
+    "logout": "Déconnexion",
+    "username": "Nom d'utilisateur",
+    "password": "Mot de passe",
+    "email": "Email",
+    "forgotPassword": "Mot de passe oublié",
+    "signUp": "S'inscrire"
+  },
+  "navigation": {
+    "home": "Accueil",
+    "settings": "Paramètres",
+    "profile": "Profil"
+  }
+}

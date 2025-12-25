@@ -1,0 +1,11 @@
+{
+  "extends": "@react-native/typescript-config",
+  "include": [
+    "**/*.ts",
+    "**/*.tsx",
+    "declarations.d.ts",
+    "nativewind-env.d.ts",
+    "src/types/react-native-config.d.ts"
+  ],
+  "exclude": ["**/node_modules", "**/Pods"]
+}

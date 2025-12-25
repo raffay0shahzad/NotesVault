@@ -1,0 +1,83 @@
+{
+  "app": {
+    "name": "React Native Boilerplate",
+    "description": "A React Native boilerplate for building mobile apps",
+    "version": "1.0.0",
+    "author": "React Native Boilerplate",
+    "license": "MIT"
+  },
+  "common": {
+    "ok": "OK",
+    "cancel": "Cancel",
+    "yes": "Yes",
+    "no": "No",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "retry": "Retry",
+    "close": "Close",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous",
+    "continue": "Continue",
+    "done": "Done",
+    "search": "Search",
+    "filter": "Filter",
+    "sort": "Sort",
+    "refresh": "Refresh"
+  },
+  "auth": {
+    "login": "Login",
+    "logout": "Logout",
+    "username": "Username",
+    "password": "Password",
+    "email": "Email",
+    "confirmPassword": "Confirm Password",
+    "forgotPassword": "Forgot Password",
+    "signUp": "Sign Up",
+    "signIn": "Sign In",
+    "createAccount": "Create Account",
+    "resetPassword": "Reset Password",
+    "invalidCredentials": "Invalid credentials",
+    "loginSuccess": "Login successful",
+    "logoutSuccess": "Logout successful"
+  },
+  "navigation": {
+    "home": "Home",
+    "settings": "Settings",
+    "profile": "Profile",
+    "dashboard": "Dashboard",
+    "notifications": "Notifications",
+    "help": "Help",
+    "about": "About"
+  },
+  "settings": {
+    "language": "Language",
+    "theme": "Theme",
+    "notifications": "Notifications",
+    "privacy": "Privacy",
+    "account": "Account",
+    "security": "Security",
+    "preferences": "Preferences"
+  },
+  "errors": {
+    "networkError": "Network error. Please check your connection.",
+    "serverError": "Server error. Please try again later.",
+    "validationError": "Please check your input and try again.",
+    "unknownError": "An unknown error occurred.",
+    "permissionDenied": "Permission denied.",
+    "sessionExpired": "Your session has expired. Please login again."
+  },
+  "messages": {
+    "welcome": "Welcome",
+    "welcomeBack": "Welcome back",
+    "goodbye": "Goodbye",
+    "thankYou": "Thank you",
+    "pleaseWait": "Please wait...",
+    "noData": "No data available",
+    "dataLoaded": "Data loaded successfully"
+  }
+}
